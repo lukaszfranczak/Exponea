@@ -9,3 +9,4 @@ Each part has it's own script - in case of part 1 it's the Part1.js script, in c
 
 Assumptions:
 - as I used the IIFE with the arrow function my scripts won't work on IE, so non-IE browser is recommended :)
+- all the results were tested on the UK site
