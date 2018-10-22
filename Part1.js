@@ -1,5 +1,3 @@
-// Task 1
-
 (() => {
     if (window.location.href === "https://www.ikea.com/gb/en/") {
         console.log("homepage");
